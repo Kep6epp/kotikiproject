@@ -1,7 +1,5 @@
 # Hello World!
 
-Погладь (и покорми) кота!
-
 <img src="Fenek.png" width="38%">
 
 # Привет!
