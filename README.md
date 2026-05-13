@@ -2,7 +2,7 @@
 
 Погладь (и покорми) кота!
 
-<img src="Fenek.png" width="56%">
+<img src="Fenek.png" width="38%">
 
 # Привет!
 
